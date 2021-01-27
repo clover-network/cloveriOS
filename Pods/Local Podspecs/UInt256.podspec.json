@@ -1,0 +1,24 @@
+{
+  "name": "UInt256",
+  "version": "0.2.2",
+  "license": {
+    "type": "MIT"
+  },
+  "summary": "UInt256 library written in Swift 4",
+  "homepage": "https://github.com/hyugit/UInt256",
+  "authors": {
+    "hyugit": "13056774+hyugit@users.noreply.github.com"
+  },
+  "source": {
+    "git": "https://github.com/hyugit/UInt256.git",
+    "tag": "0.2.2"
+  },
+  "frameworks": "Foundation",
+  "swift_versions": "5.0.1",
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.10"
+  },
+  "source_files": "Sources/*.swift",
+  "swift_version": "5.0.1"
+}

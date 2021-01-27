@@ -1,0 +1,6 @@
+framework module UInt256 {
+  umbrella header "UInt256-umbrella.h"
+
+  export *
+  module * { export * }
+}
